@@ -7,5 +7,5 @@
 * AWS Cloud9
 * Ruby
 * Rails
-* Git# 勤怠システムを開発しよう！
+* Git(HTTPSからSSH津伸へ変更)
 
